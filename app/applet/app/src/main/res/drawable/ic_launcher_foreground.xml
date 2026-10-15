@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bank Pediment / Roof -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,28 L30,40 L78,40 Z" />
+    <!-- Bank Architrave / Top Beam -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M32,41 L76,41 L76,44 L32,44 Z" />
+    <!-- Pillars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,46 L40,46 L40,65 L35,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,46 L51,46 L51,65 L46,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,46 L62,46 L62,65 L57,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,46 L73,46 L73,65 L68,65 Z" />
+    <!-- Base Platform -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M30,66 L78,66 L78,70 L30,70 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M27,71 L81,71 L81,74 L27,74 Z" />
+    <!-- Currency Token / Shield Accent in Center Base -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,49 A5,5 0 1 0 54,59 A5,5 0 1 0 54,49 Z" />
+</vector>

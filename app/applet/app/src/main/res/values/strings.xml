@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KistiBank</string>
+    <string name="institution_title">সঞ্চয় ও ঋণ ব্যবস্থাপনা ব্যাংক</string>
+    <string name="institution_subtitle">Secure Microfinance, Kisti &amp; Savings Solution</string>
+
+    <!-- Roles -->
+    <string name="role_super_admin">সুপার অ্যাডমিন (Super Admin)</string>
+    <string name="role_manager">শাখা ব্যবস্থাপক (Manager)</string>
+    <string name="role_employee">মাঠকর্মী (Collection Officer)</string>
+    <string name="role_accountant">হিসাবরক্ষক (Accountant)</string>
+    <string name="role_auditor">নিরীক্ষক (Auditor)</string>
+
+    <!-- Financial Cards -->
+    <string name="card_total_members">মোট সদস্য</string>
+    <string name="card_total_loans">মোট ঋণ বিতরণ</string>
+    <string name="card_total_savings">মোট সঞ্চয় জমা</string>
+    <string name="card_total_dps">মোট DPS আমানত</string>
+    <string name="card_today_paid">আজকের কিস্তি আদায়কারী</string>
+    <string name="card_today_missed">আজকের কিস্তি বাকি</string>
+    <string name="card_total_collection">মোট মোট আদায়</string>
+    <string name="card_loan_outstanding">মোট ঋণ স্থিতি</string>
+
+    <!-- Currency and Units -->
+    <string name="currency_symbol">৳</string>
+</resources>

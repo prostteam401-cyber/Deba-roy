@@ -1,0 +1,8 @@
+{
+  "name": "KistiBank",
+  "description": "Secure Bank Loan, Kisti, Savings, DPS & KYC Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
